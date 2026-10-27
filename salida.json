@@ -7,14 +7,14 @@
                 "¡Hasta luego!",
                 "Gracias por venir.",
                 "Gracias por tu tiempo.",
-                "¡Vuelve pronto!
+                "¡Vuelve pronto!",
                 "Fue una sesión muy productiva.",
                 "Fue muy productiva la sesión.",
                 "Sí, ya terminó nuestro tiempo.",
-                "Recuerda que puedes volver cuando quieras."
-                "Estaré aquí cuando vuelvas."
-                "Siempre estoy si me necesitas."
-                "Adiós."
+                "Recuerda que puedes volver cuando quieras.",
+                "Estaré aquí cuando vuelvas.",
+                "Siempre estoy si me necesitas.",
+                "Adiós.",
                 "¡Chaíto!"
             ]
     },
@@ -130,7 +130,7 @@
             "¿Podríamos explorar por qué te sientes así?",
             "¿Podríamos explorar de dónde vienen esos sentimientos?",
             "¿Qué te hace sentir así, específicamente?",
-            "¿Cómo empezó ese sentimiento?"
+            "¿Cómo empezó ese sentimiento?",
             "¿Qué originó ese sentimiento?"
         ]
     },
@@ -147,9 +147,9 @@
             "Debe tener algo que lo redime.",
             "Trata de verle el lado amable.",
             "De seguro tiene un lado amable.",
-            "Busquémosle el lado amable."
+            "Busquémosle el lado amable.",
             "¿Puedes sonreir para mi?",
-            "Ánimo, puedes hacerlo en positivo."
+            "Ánimo, puedes hacerlo en positivo.",
             "Respira profundo; vamos a intentarlo de nuevo, esta vez en positivo.",
             "Muy bien, pero ahora pon lo en términos positivos.",
             "Trata de no perder el positivismo.",
@@ -166,7 +166,7 @@
             "Venimos a hablar de tus problemas, no de eso.",
             "No se trata de eso, se trata de ti.",
             "Estamos aquí para ayudarte a tí, no para resolver esos problemas.",
-            "El propósito de estas sesiones es que puedas expresarte sobre ti mismo, no sobre otros problemas."
+            "El propósito de estas sesiones es que puedas expresarte sobre ti mismo, no sobre otros problemas.",
             "Recuerda que esta es tu psicoterapia."
         ]
     },
