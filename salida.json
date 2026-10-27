@@ -218,5 +218,20 @@
             "Trata de dividirlo en sus miembros.",
             "Trata de delimitarlo un poco."
         ]
+    },
+    "Conversacional":{
+        "Prioridad":0,
+        "Frases clave":[
+            "¿Qué haces en tu tiempo libre?",
+            "¿Tienes algún hobby?",
+            "¿Cuáles son tus gustos?",
+            "¿Hay algo que te disguste?",
+            "¿Tienes alguna película favorita?",
+            "¿Has leído algo interesante últimamente?",
+            "Cuéntame más sobre ti.",
+            "Cuéntame un poco sobre tu vida.",
+            "Aún nos queda tiempo, si quieres compartir algo más.",
+            "Si quieres cambiar de tema, te escucho."
+        ]
     }
 }
