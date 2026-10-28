@@ -228,10 +228,14 @@
             "¿Hay algo que te disguste?",
             "¿Tienes alguna película favorita?",
             "¿Has leído algo interesante últimamente?",
+            "¿Qué has hecho últimamente?",
+            "¿En qué has estado ocupado?",
             "Cuéntame más sobre ti.",
             "Cuéntame un poco sobre tu vida.",
             "Aún nos queda tiempo, si quieres compartir algo más.",
-            "Si quieres cambiar de tema, te escucho."
+            "Si quieres cambiar de tema, te escucho.",
+            "¿Has tenido una psicoterapia como esta antes?",
+            "¿Cómo fue tu última experiencia intentando tener una psicoterapia como esta?"
         ]
     }
 }
